@@ -1,6 +1,6 @@
 // src/components/Auth.js
 import React, { useState } from "react";
-import "../styles/Auth.css";
+import "../Styles/Auth.css"
 
 const Auth = () => {
   const [isRegistering, setIsRegistering] = useState(false);
